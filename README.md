@@ -1,0 +1,2 @@
+# Elmas
+Yizdizlarla elmas
